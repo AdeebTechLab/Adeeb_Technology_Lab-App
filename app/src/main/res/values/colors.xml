@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="hafewhite">#cac7c7</color>
+    <color name="taz_colore">#222d38</color>
+    <color name="halka_colore">#394251</color>
+    <color name="Yello_coloer">#ff8e01</color>
+
+    <color name="c">#07b4e2</color>
+    <color name="cc">#82d7f0</color>
+</resources>

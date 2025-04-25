@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "377759401768",
+    "firebase_url": "https://atlab-909d4.firebaseio.com",
+    "project_id": "atlab-909d4",
+    "storage_bucket": "atlab-909d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377759401768:android:8527cdd3f17640d07c321d",
+        "android_client_info": {
+          "package_name": "com.adeebtechlab.apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsLAy55YiB43wNavky2goeGbZxwh6rmXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
