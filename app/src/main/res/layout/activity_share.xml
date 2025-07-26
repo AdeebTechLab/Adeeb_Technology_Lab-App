@@ -301,7 +301,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="4dp"
-                        android:text="⭐ 4.7     ❤️34K     📥12k     🔗8k     👁36k"
+                        android:text="⭐ 4.1     ❤️9K     📥12k     🔗8k     👁36k"
                         android:textSize="10dp" />
 
                 </LinearLayout>
