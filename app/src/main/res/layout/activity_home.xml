@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="140dp"
         android:background="@color/taz_colore"
+        android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -42,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/white"
-        android:text="Application version 1.5"
+        android:text="Application version 1.7"
         android:textSize="10dp"
         app:layout_constraintStart_toEndOf="@+id/imageView4"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
@@ -2184,7 +2185,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Profile"
+                    android:text="Portals"
                     android:textSize="9sp" />
             </LinearLayout>
 

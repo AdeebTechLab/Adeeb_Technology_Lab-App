@@ -12,8 +12,8 @@ android {
         applicationId = "com.adeebtechlab.apps"
         minSdk = 24
         targetSdk = 35
-        versionCode = 15
-        versionName = "1.5"
+        versionCode = 17
+        versionName = "1.7"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -43,10 +43,11 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+    implementation(libs.androidx.media3.exoplayer)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-    implementation(platform("com.google.firebase:firebase-bom:33.12.0"))
-    implementation("com.onesignal:OneSignal:[5.1.6, 5.1.99]")
+    implementation(platform("com.google.firebase:firebase-bom:34.9.0"))
+    implementation("com.onesignal:OneSignal:5.6.1")
 
 }

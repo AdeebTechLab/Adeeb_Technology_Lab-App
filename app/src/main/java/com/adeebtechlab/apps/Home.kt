@@ -254,4 +254,3 @@ class Home : AppCompatActivity() {
         }
     }
 }
-
